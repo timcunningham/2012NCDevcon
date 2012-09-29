@@ -10,7 +10,7 @@ Things you need to follow along in this class.
 0. During the workshop turn your phone to silent, if it rings, I will embarrass you and the person on the other end.
 1. A username and password for the secure (and much quicker) NCSU wireless.  
 	* This will be written on a slip and given in class
-	* If you are setting up prior to 1:30 (Thank YOU!!!) Skip to step 2.
+	* If you are setting up prior to 1:30 (Thank YOU!!!) Skip to step 3.
 2. A free account on github.com
 3. Write your github.com username on the sheet that is being passed around.
 4. Install git on your laptop: [GIT DOWNLOAD]: http://git-scm.com/downloads
