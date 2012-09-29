@@ -1,0 +1,6 @@
+Another file for bph branch
+Yesterday I presented my topic: "Choosing Git workflows that make sense" to Charlie Arehart's CFMeetup group. If you missed it you can watch it here: http://experts.adobeconnect.com/p3qdsfghenj/  However I was asked if there is anyway to print out the git history.  I had never had to do this, so I assumed there would be plenty of tools out there to do that. To my surprise, I have not found much out there.  So I modified a git alias that I found and created a ColdFusion page to parse the json into a pretty table.
+
+Unfortunately I have not found a way to output to json all the files changed for each commit as well as the diffs,  I will keep looking for that.
+
+ 
