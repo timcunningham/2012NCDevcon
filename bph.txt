@@ -1,0 +1,3 @@
+Welcome to the Git of 2012 NCDevCon. 
+We all have commitment issues, I guess...
+birgit pauli-haack
